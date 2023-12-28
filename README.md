@@ -1,0 +1,104 @@
+<h1 align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header"/>
+<br>
+  Hello, It's Saif!
+  <img src="img/others/handwave.gif" width="28">
+</h1>
+
+<h3 align="center">Ethical Hacker | CTF player | Bug Hunter</h3>
+
+
+</div>
+
+<h2></h2>
+
+<div align="center">
+  
+<img src = "img/others/snakegame.svg">
+  
+</div>
+
+<h2>👩‍💻 Things I Often Use:</h2>
+
+__Operating Systems:__  
+
+<img src = "img/os/arch.png" height="30"> <img src = "img/os/manjaro.png" height="30"> <img src = "img/os/kali.svg" height="30"> <img src = "img/os/ubuntu.svg" height="30"> <img src = "img/os/debian.png" height="30"> <img src = "img/os/redhat.png" height="30"> <img src = "img/os/fedora.png" height="30"> <img src = "img/os/windows.svg" height="30"> <img src = "img/os/macos.png" height="30">
+<br><br>
+
+__High Level & Scripting:__  
+
+<img src = "img/highlevel/bash.svg"> <img src = "img/highlevel/powershell.svg"> <img src = "img/highlevel/python.svg"> <img src = "img/highlevel/c.svg" height="30"> <img src = "img/highlevel/cpp.png" height="30"> <br><br>
+
+__Web:__ 
+
+<img src = "img/web/html.svg"> <img src = "img/web/css.svg"><img src = "img/web/js.svg"> <img src = "img/web/react.svg"> <img src = "img/web/nodejs.svg"> <img src = "img/web/wordpress.svg" height="30"> <img src = "img/web/markdown.png" height="30"><br><br>
+
+__Databases:__  
+
+<img src = "img/db/mysql.svg" height="30"> <img src = "img/db/postgresql.svg" height="30"><br><br>
+
+<!-- __IOT:__  
+
+<img src = "img/iot/raspberrypi.svg"> <img src = "img/iot/proteus.png" height="30"> <img src = "img/iot/arduino.svg" height="30">  <img src = "img/iot/tinkercad.jpg" height="30"><br><br> -->
+
+__Virtualization:__  
+
+<img src = "img/virtualization/vmware.svg"> <img src = "img/virtualization/docker.svg"> <img src = "img/virtualization/vbox.png" height = "30" /> <img src = "img/virtualization/qemu.png" height = "30 "/><br><br>
+
+__Version Control:__  
+
+<img src = "img/vercontrol/git.svg" height="30"> <img src = "img/vercontrol/github.png" height="30">
+ <img src = "img/vercontrol/gitlab.svg" height="30"><br><br>
+
+ __Code Editor:__  
+
+<img src = "img/codeeditor/vscode.svg"> <img src = "img/codeeditor/notepadpp.png" height = "30" /> <img src = "img/codeeditor/sublime.svg" height = "30" /><br><br>
+
+__Reverse Engineering:__
+
+<img src = "img/rev/ghidra.png" height="30"> <img src = "img/rev/cutter.svg" height="30"> <img src = "img/rev/radare2.png" height="30"> <img src = "img/rev/binaryninja.png" height = "30"/> <img src = "img/rev/iaito.svg" height="30"> <img src = "img/rev/gdb.png" height="30" /> <img src = "img/rev/ida.png" height = "30" /><br><br>
+
+
+__Expolits:__
+
+<img src = "img/exploits/metasploit.svg" height = "30"> <img src = "img/exploits/exploitdb.png" height = "30" /><br><br>
+
+__Web Pentest:__
+
+<img src = "img/webpentest/burpsuite.svg" height = "30" /> <img src = "img/webpentest/sqlmap.png" height = "30" /> <img src = "img/webpentest/dalfox.png" height = "30" /> <img src = "img/webpentest/wpscan.svg" height = "30" /> <img src = "img/webpentest/dirbuster.svg" height = "30" /> <img src = "img/webpentest/webscarab.svg" height = "30" /> <img src = "img/webpentest/dirb.svg" height = "30" /> <img src = "img/webpentest/ffuf.svg" height = "30" /> <img src = "img/webpentest/hydra.svg" height = "30" />
+<br><br>
+
+__Forensics:__  
+
+<img src = "img/forensics/volatility.jpg" height = "30" /> <img src = "img/forensics/windbg.png" height="30"> <img src = "img/forensics/wireshark.png" height = "30"> <img src = "img/forensics/autopsy.svg" height = "30"><br><br>
+
+__Android:__  
+
+<img src = "img/android/androidstudio.svg"> <img src = "img/android/jadx.png" height = "30" />
+<br><br>
+
+__Note Keeping:__  
+
+<img src = "img/note/notion.png" height = "30" />
+
+__And many more...__
+
+    
+
+<h2>📊 Github Stats</h2>
+<div align="center">
+<br>
+<img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhacker0x1&theme=gotham&langs_count=50&layout=compact&count_private=true&hide_progress=true" />
+<br><br>
+<img align="center" alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=badhacker0x1&count_private=true&show_icons=true&theme=gotham" /> 
+<br><br>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=badhacker0x1&theme=gotham&count_private=true" />  
+<br><br> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=badhacker0x1&theme=gotham&area=true&hide_border=true&count_private=true" /> 
+</div>
+  
+<h2>🔢 Visitor Count</h2>
+<div align="center">
+<br>
+<img align="center" src="https://profile-counter.glitch.me/{badhacker0x1}/count.svg" />
+<br></div>
+<h2></h2>
