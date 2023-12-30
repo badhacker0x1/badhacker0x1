@@ -1,5 +1,5 @@
 <h1 align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header"/> -->
 <br>
   Hello, It's Saif!
   <img src="img/others/handwave.gif" width="28">
